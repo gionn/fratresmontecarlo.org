@@ -9,7 +9,7 @@ description: "Gruppo Donatori di Sangue Fratres Alberto Tintori Montecarlo" # us
 theme_settings:
   # Meta
   title: Fratres Montecarlo - Alberto Tintori # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/drop.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
