@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Chi siamo
 permalink: /about/
 feature-img: "assets/img/head/about.jpg"
 ---
@@ -13,9 +13,20 @@ intitolata al capogruppo storico, Alberto Tintori – scomparso quell'anno – e
 tale passaggio è stato caratterizzato dall'inaugurazione del nuovo labaro del
 Gruppo.
 
-L'attività principale dell’associazione è la sensibilizzazione e l'accompagnamento della popolazione alla donazione di sangue mediante l’opera di mediazione tra il cittadino e i Centri Trasfusionali intesa quale mezzo principale per la diffusione della cultura del dono. In passato, i donatori effettuavano la donazione attraverso la modalità “a chiamata”, in cui l'Ospedale richiedeva le donazioni di sangue caso per caso, qualora se ne presentasse la necessità. Col passare degli anni, l'incremento del numero di donatori e la rinnovata cultura della donazione – anche grazie alla possibilità di conservare il sangue più a lungo – ha consentito di effettuare la donazione con maggiore libertà e sicurezza.
+L'attività principale dell’associazione è la sensibilizzazione e
+l'accompagnamento della popolazione alla donazione di sangue mediante l’opera di
+mediazione tra il cittadino e i Centri Trasfusionali intesa quale mezzo
+principale per la diffusione della cultura del dono. In passato, i donatori
+effettuavano la donazione attraverso la modalità “a chiamata”, in cui l'Ospedale
+richiedeva le donazioni di sangue caso per caso, qualora se ne presentasse la
+necessità. Col passare degli anni, l'incremento del numero di donatori e la
+rinnovata cultura della donazione – anche grazie alla possibilità di conservare
+il sangue più a lungo – ha consentito di effettuare la donazione con maggiore
+libertà e sicurezza.
 
-Il Gruppo – che al 31 dicembre 2015 risulta composto da 318 donatori – è divenuto anche un luogo dove dar vita ad altre iniziative e i Consigli Direttivi che si sono succeduti hanno promosso le seguenti attività:
+Il Gruppo – che al 31 dicembre 2015 risulta composto da 318 donatori – è
+divenuto anche un luogo dove dar vita ad altre iniziative e i Consigli Direttivi
+che si sono succeduti hanno promosso le seguenti attività:
 
 ## Iniziative autonome
 
@@ -46,7 +57,7 @@ Il Gruppo – che al 31 dicembre 2015 risulta composto da 318 donatori – è di
 * Collaborazione con la locale associazione Pro Loco Montecarlo alla
   realizzazione dell’evento “Montecarlo è di Strada” (2015).
 
-## Iniziative in collaborazione col Gruppo Fratres di San Salvatore:
+## Iniziative in collaborazione col Gruppo Fratres di San Salvatore
 
 * Sensibilizzazione alla donazione di sangue rivolta agli studenti delle scuole
   del paese;
