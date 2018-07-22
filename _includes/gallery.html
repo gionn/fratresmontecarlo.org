@@ -13,7 +13,9 @@ html { overflow-y: scroll; }
 {% for image in site.static_files %}
   {% if image.path contains include.gallery_path %}
     
+      <a href="{{ image.path | prepend: site.baseurl }}">
         <img src="{{ image.path | prepend: site.baseurl }}" alt="" class="grid-item" style="padding: 0;">
+      </a>
       
   {% endif %}
 {% endfor %}

@@ -8,28 +8,28 @@ description: "Gruppo Donatori di Sangue Fratres Alberto Tintori Montecarlo" # us
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Fratres Montecarlo - Alberto Tintori # blog's title
+  title: Donatori Fratres Montecarlo - Alberto Tintori # blog's title
   avatar: assets/img/drop.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>#donasangue</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p>qui una frase che spacchi</p>
+  header_text_feature_image: assets/img/head/home.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: gruppomontecarlo@fratres.eu
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: donatori.montecarlo
   flickr:
   gitlab:
-  github: "sylhare"
+  github:
   google_plus:
   instagram:
   keybase:
@@ -49,11 +49,11 @@ theme_settings:
   share_buttons:
     facebook: true
     twitter: true
-    google_plus: true
+    google_plus:
     tumblr:
     pinterest:
     pocket:
-    reddit: true
+    reddit:
     linkedin:
     wordpress:
     email: true
@@ -72,19 +72,19 @@ theme_settings:
       enabled: true
   
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_share_on: "Share on"
-  str_add_to: "Add to"
+  str_follow_on: "Seguici su"
+  str_rss_follow: "Iscriviti al feed RSS"
+  str_share_on: "Condividi"
+  str_add_to: "Aggiungi a"
   str_email: "Email"
   str_tweet: "Tweet"
   str_pin_it: "Pin it"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
-  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+  str_next_post: "Post successivo"
+  str_previous_post: "Post precedente"
+  str_next_page: "Successivo"
+  str_previous_page: "Precedente"
+  str_continue_reading: "Continua a leggere"
+  str_javascript_required_disqus: "Abilita JavaScript per leggere i commenti"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
