@@ -2,7 +2,12 @@
 layout: page
 title: Chi siamo
 permalink: /about/
+<<<<<<< HEAD
 feature-img: "assets/img/head/about.jpg"
+=======
+feature-img: "assets/img/pexels/circuit.jpeg"
+tags: [About, Archive]
+>>>>>>> upstream/master
 ---
 
 Il **Gruppo Donatori di Sangue Fratres di Montecarlo** è nato nel novembre del

@@ -1,6 +1,6 @@
 # Type on Strap 
 
-[![Build Status](https://travis-ci.org/Sylhare/Type-on-Strap.svg?branch=master)](https://travis-ci.org/Sylhare/Type-on-Strap) 
+[![Build Status](https://travis-ci.org/sylhare/Type-on-Strap.svg?branch=master)](https://travis-ci.org/sylhare/Type-on-Strap)
 [![Gem Version](https://badge.fury.io/rb/type-on-strap.svg)](https://badge.fury.io/rb/type-on-strap)
 
 A free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chandra [type-theme](https://github.com/rohanchandra/type-theme) with a few new features:
@@ -58,8 +58,8 @@ jekyll-theme-basically-basic
 ├── pages
 |   ├── 404.md		       # To be displayed when url is wrong
 |   ├── about.md               # About example page
-|   ├── gallery.md              # Gallery page for your photos
-|   ├── portfolio.md	         # Portfolio page for your projects
+|   ├── gallery.md             # Gallery page for your photos
+|   ├── portfolio.md	       # Portfolio page for your projects
 |   ├── search.html	       # Search page
 |   └── search.json            # Specify the search target (page, post, collection)
 ├── _config.yml                # sample configuration
@@ -236,6 +236,7 @@ This are the basic features you can use with the  `post` layout.
 ---
 layout: post
 title: Hello World                                # Title of the page
+hide_title: true                                  # Hide the title when displaying the post, but shown in lists of posts
 feature-img: "assets/img/sample.png"              # Add a feature-image to the post
 thumbnail: "assets/img/thumbnail/sample-th.png"   # Add a thumbnail image on blog view
 bootstrap: true                                   # Add bootstrap to the page
@@ -279,6 +280,8 @@ Here are the documentation for the other feature pages that can be added through
 
 This page is the used as the home page of the template (in the `index.html`). It displays the list of article in `_posts`.
 You can use this layout in another page (adding a title to it will make it appear in the navigation bar).
+
+The recommended width and height for the home picture is width:`2484px;` and height:`1280px` which are the dimension of the actual picture for it to be rolling down as you scroll the page. 
 
 ### Portfolio
 

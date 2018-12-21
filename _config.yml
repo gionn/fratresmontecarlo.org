@@ -16,9 +16,9 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <p>Il sangue non si può fabbricare, si può solo donare!</p>
-  header_text_feature_image: assets/img/head/home.jpg
+  header_feature_image: assets/img/head/home.jpg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
@@ -65,7 +65,7 @@ theme_settings:
   
   special_page:
     search: 
-      icon: "search" # Assuming page link and icon are the same
+      icon: "search"
       enabled: true
     tags:
       icon: "tags"
