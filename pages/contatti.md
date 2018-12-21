@@ -5,11 +5,11 @@ permalink: /contatti/
 feature-img: "assets/img/head/contatti.jpg"
 ---
 
-Gruppo donatori di sangue Fratres “Alberto Tintori”
+Gruppo Donatori di Sangue Fratres “Alberto Tintori”
 
-Via Cerruglio, 31 – 55015 Montecarlo (LU)
+Via di Montecarlo, 10/A – 55015 Montecarlo (LU)
 
-Telefono: 348-9491955
+Telefono: +393489491955
 
 Email: gruppomontecarlo@fratres.eu
 
