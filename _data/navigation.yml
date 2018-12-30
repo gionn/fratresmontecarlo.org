@@ -1,0 +1,9 @@
+main:
+  - title: "Chi siamo"
+    url: /about/
+  - title: "Contatti"
+    url: /contatti/
+  - title: "Statistiche"
+    url: https://fratresmontecarlo.org/charts/
+  - title: "Login"
+    url: https://fratresmontecarlo.org/admin/
