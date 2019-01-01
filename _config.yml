@@ -8,8 +8,8 @@ title                    : "Donatori Fratres Montecarlo"
 title_separator          : "-"
 name                     : ""
 description              : "Gruppo Donatori Sangue Fratres \"Alberto Tintori\" di Montecarlo (Lucca)"
-url                      : "https://donatori.fratresmontecarlo.org/"
-baseurl                  : "/"
+url                      : "https://donatori.fratresmontecarlo.org"
+baseurl                  : ""
 repository               : gionn/fratresmontecarlo.org
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
