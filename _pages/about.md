@@ -112,3 +112,6 @@ che si sono succeduti hanno promosso le seguenti attività:
 * 2015: 282 donazioni
 * 2016: 285 donazioni
 * 2017: 357 donazioni
+* 2018: 348 donazioni
+
+Ti interessano altre dati? Accedi alla sezione [Statistiche](https://fratresmontecarlo.org/charts/)!
