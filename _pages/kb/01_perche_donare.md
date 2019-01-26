@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Perché è importante donare il sangue
-permalink: /perché-donare-sangue
+permalink: /perche-donare-sangue
 ---
 
 ## La donazione per chi riceve
