@@ -66,18 +66,20 @@ A seconda di alcune condizioni fisiche, il donatore è soggetto ad una
 sospensione temporanea o permanente per la donazione.
 
 Le cause più comuni di sospensione temporanea, di durata variabile a seconda
-della gravità (da 48 ore a 6 mesi) sono:
+della gravità (da 48 ore a 1 anno) sono:
 
-* sindromi influenzali, faringiti, gastroenteriti
-* uso di farmaci (es: antibiotici)
+* raffreddore e sindromi influenzali, faringiti, gastroenteriti
+* assunzione di farmaci (antibiotici, anti-infiammatori, psicofarmaci)
 * interventi chirurgici maggiori o odontoiatrici
 * viaggi in zone tropicali o con malattie endemiche
-* tatuaggi
+* tatuaggi, piercings
+* vaccini
+* assunzione di stupefacenti
   
 Per le donne in età fertile:
 
 * mestruazioni
-* gravidanza e parto (1 anno)
+* gravidanza e parto
 
 Esistono condizioni patologiche che possono escludere in modo permanente  la
 donazione in quanto dannose per il donatore stesso:
@@ -88,8 +90,8 @@ donazione in quanto dannose per il donatore stesso:
 
 Infine, tutte le malattive infettive precludono la donazione, come:
 
-* Malattie esantematiche (morbillo, varicella, rosolia, scarlattina)
-* Epatiti (tipo B e C)
+* malattie esantematiche (morbillo, varicella, rosolia, scarlattina)
+* epatiti (tipo B e C)
 * AIDS
 
 > In caso di dubbi, contatta sempre il centro trasfusionale a te più vicino per
