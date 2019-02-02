@@ -2,7 +2,6 @@
 layout: single
 title: Nuovo consiglio e cariche sociali 2018-2022
 tags: [news, associazione]
-excerpt_separator: <!-- more -->
 header:
   image: "assets/images/head/direttivo.jpg"
 ---
@@ -18,8 +17,6 @@ si sono conclusi con la cena sociale. Contestualmente, terminato il periodo di 4
 anni dalle ultime elezioni per il rinnovo delle cariche sociali, tutti i soci
 sono stati chiamati alle urne a lasciare le proprie preferenze su una lista di
 candidati.
-
-<!-- more -->
 
 A seguito dello scrutinio effettuato durante la settimana successiva, sono stati
 eletti nel Consiglio: Bonelli Simona, Carmignani Franca, Carrara Massimo, Del

@@ -1,15 +1,12 @@
 ---
 layout: single
 title: Donatori montecarlesi rinnovano l’impegno sul territorio
-tags: [news, associazione]
-excerpt_separator: <!-- more -->
+tags: [associazione]
 header:
   image: "assets/images/gallery/natale-2018.jpg"
 ---
 
 Anche per il 2018, si rinnova l’impegno del *Gruppo Donatori di Sangue Fratres "Alberto Tintori"* di Montecarlo nel **sostenere progetti a carattere sociale** portati avanti dalle diverse associazioni all'interno del territorio comunale e zone limitrofe.
-
-<!-- more -->
 
 Il primo contributo va alla *Società Filarmonica Giacomo Puccini* di Montecarlo per il progetto “Sarabanda”, che consente ai ragazzi delle scuole medie di ricevere formazione musicale avanzata per molteplici strumenti, attraverso il supporto diretto dei musicisti volontari dell’associazione. Il secondo contributo va al *Centro Disabili “I ragazzi di Renzo”* all’interno del centro gestito dalla Misericordia nella frazione Fornace, voluto da Renzo Fantozzi, scomparso a maggio di quest’anno. Il terzo contributo va alla *Casa Famiglia “Papa Giovanni XXIII”* nella frazione di Luciani, che continua da molti anni a fornire vitto e alloggio a giovani e adulti con difficoltà personali. Infine il quarto contributo va alle scuole dell’*Istituto Comprensivo* di Montecarlo, per l’acquisto di materiale didattico da utilizzare all’interno delle aule. Ulteriori contributi saranno erogati a famiglie bisognose che saranno individuate grazie al supporto dei volontari che operano a stretto contatto con esse.
 
