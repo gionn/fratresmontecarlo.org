@@ -70,16 +70,18 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : donatori.montecarlo
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : https://donatori.fratresmontecarlo.org/assets/images/drop.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organization
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+    - https://www.facebook.com/donatori.montecarlo
+    - https://www.instagram.com/fratres.montecarlo/
 
 # Analytics
 analytics:
@@ -91,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Giovanni Toraldo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Montecarlo, Lucca, Italy"
   email            :
   links:
     - label: "Email"
@@ -206,7 +208,7 @@ sass:
 permalink: /:categories/:year/:month/:day/:title:output_ext
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome
 
 
 # Plugins (previously gems:)
