@@ -7,6 +7,8 @@ main:
     url: /perche-donare-sangue
   - title: "Statistiche"
     url: https://fratresmontecarlo.org/charts/
+  - title: "Newsletter"
+    url: /newsletter.html
   - title: "Chi siamo"
     url: /about/
   - title: "Login"
