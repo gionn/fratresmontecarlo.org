@@ -1,6 +1,8 @@
 main:
   - title: "Contattaci"
     url: /contatti/
+  - title: "Fatti in due!!"
+    url: /2019/concorso-fatti-in-due.html
   - title: "Perché donare"
     url: /perche-donare-sangue
   - title: "Statistiche"
