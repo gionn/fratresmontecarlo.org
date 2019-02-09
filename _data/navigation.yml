@@ -11,5 +11,5 @@ main:
     url: /newsletter.html
   - title: "Chi siamo"
     url: /about/
-  - title: "Login"
+  - title: "Admin"
     url: https://fratresmontecarlo.org/admin/
