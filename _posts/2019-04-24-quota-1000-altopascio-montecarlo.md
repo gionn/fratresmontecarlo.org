@@ -22,6 +22,8 @@ deciso di porsi davanti un obiettivo estremamente ambizioso: arrivare a fine
 2019 a *Quota Mille*, ovvero **1000 donazioni di sangue** e emoderivati in
 totale sommando gli apporti di entrambi.
 
+[![quota mille donazioni annuali](/assets/images/2019/quota-mille-logo.png)](https://fratresmontecarlo.org/charts/)
+
 Considerando che l’anno scorso, già molto lusinghiero per entrambi, ci si è
 fermati poco sotto le 900 donazioni totali, si capisce che i due gruppi hanno
 una grande voglia di continuare a crescere e di diffondere questa virtù civica
