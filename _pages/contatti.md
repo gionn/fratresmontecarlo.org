@@ -18,5 +18,7 @@ Email: gruppomontecarlo@fratres.eu
 
 Email alternativa: infofratresmontecarlo@gmail.com
 
+PEC: fratresmontecarlo@pec.it
+
 Puoi scriverci un messaggio anche tramite [Facebook](https://www.facebook.com/donatori.montecarlo) o
 [Instagram](https://www.instagram.com/fratres.montecarlo/).
