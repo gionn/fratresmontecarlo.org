@@ -12,7 +12,7 @@ Via di Montecarlo, 10/A – 55015 Montecarlo - Lucca
 
 CF: 92012140460
 
-Telefono: 3489491955
+Telefono: 3489491955 (anche [Whatsapp](https://wa.me/393489491955)!)
 
 Email: gruppomontecarlo@fratres.eu
 
