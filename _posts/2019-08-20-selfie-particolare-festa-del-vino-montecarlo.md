@@ -22,7 +22,7 @@ Come si partecipa? È semplicissimo:
 * Se hai un account Facebook: pubblica la foto sul tuo diario citando la nostra
   pagina **@Donatori di Sangue Fratres Montecarlo** e ricorda di impostare la
   privacy del tuo post a Pubblica!
-* Più Cuori o Like riceverai sulla foto e più probabilità avrai di essere il
+* Più ❤️ o 👍 riceverai sulla foto e più probabilità avrai di essere il
   vincitore!
 
 Dopo 48 ore dal termine di ciascuna serata, la foto più PARTICOLARE vincerà una
