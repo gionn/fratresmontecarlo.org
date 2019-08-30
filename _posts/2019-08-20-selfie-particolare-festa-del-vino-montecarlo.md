@@ -15,18 +15,19 @@ Come si partecipa? È semplicissimo:
 
 * Fatti un selfie durante la Festa, da solo oppure in compagnia, nella nostra
   **zona Particolare** allo stand del vino dei Donatori di Sangue Montecarlo (in
-  fondo a Piazza D'Armi);
+  fondo a Piazza D'Armi) insieme al nostro BOTTIGLIONE;
 * Se hai un account Instagram: pubblica la foto sul tuo profilo pubblico usando
   gli hashtag **#selfieparticolare #fratresmontecarlo** e citando il nostro account
   **@fratres.montecarlo**
-* Se hai un account Facebook: pubblica la foto sul tuo diario citando la nostra
-  pagina **@Donatori di Sangue Fratres Montecarlo** e ricorda di impostare la
-  privacy del tuo post a Pubblica!
+* Se hai un account Facebook: pubblica la foto sulla pagina dell'evento [Festa
+  del Vino a Montecarlo - Selfie Particolare](https://www.facebook.com/events/351421862401310)
+  OPPURE sul tuo diario con privacy a "Tutti"
+  usando gli hashtag **#selfieparticolare #fratresmontecarlo**
 * Più ❤️ o 👍 riceverai sulla foto e più probabilità avrai di essere il
   vincitore!
 
 Dopo 48 ore dal termine di ciascuna serata, la foto più PARTICOLARE vincerà una
-delle 11 bottigle Magnum messe in palio!
+delle 11 bottiglie di Magnum Particolare messe in palio!
 
 La foto del vincitore sarà ripubblicata sui nostri social, e da quel momento
 potrai presentarti al nostro stand una qualsiasi sera della festa, oppure
