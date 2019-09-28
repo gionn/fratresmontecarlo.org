@@ -27,3 +27,9 @@ così vicina.
 ![ciclisti agbalt](/assets/images/2019/staffetta-agbalt/ciclisti.jpeg)
 
 ![podisti agbalt](/assets/images/2019/staffetta-agbalt/podisti.jpeg)
+
+![podisti agbalt](/assets/images/2019/staffetta-agbalt/podisti-2.jpeg)
+
+![podisti agbalt](/assets/images/2019/staffetta-agbalt/podisti-3.jpeg)
+
+![catena podisti agbalt](/assets/images/2019/staffetta-agbalt/catena-podisti.jpeg)
