@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Un selfie particolare alla Festa del Vino 2019"
-tags: [news]
+title: "🍾 Un selfie particolare alla Festa del Vino 2019"
+tags: [news,selfie]
 header:
   image: "/assets/images/2019/particolare-selfie.jpg"
 ---

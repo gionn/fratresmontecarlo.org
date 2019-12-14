@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Fatti In Due, con i donatori di Montecarlo
-tags: [associazione, concorsi]
+title: 🥳 Fatti In Due, con i donatori di Montecarlo
+tags: [associazione]
 permalink: /2019/concorso-fatti-in-due.html
 header:
   image: "assets/images/2019/fatti-in-due.jpg"

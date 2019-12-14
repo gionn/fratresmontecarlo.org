@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Staffetta con donazione direzione AGBALT"
-tags: [news]
+title: "🏃‍♀️ Staffetta con donazione direzione AGBALT"
+tags: [news,agbalt]
 header:
   image: "/assets/images/2019/staffetta.jpeg"
 ---

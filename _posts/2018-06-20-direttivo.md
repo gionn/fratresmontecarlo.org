@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Nuovo consiglio e cariche sociali 2018-2022
-tags: [news, associazione]
+title: "🩸 Nuovo consiglio e cariche sociali 2018-2022"
+tags: [associazione,filarmonica]
 header:
   image: "assets/images/head/direttivo.jpg"
 ---

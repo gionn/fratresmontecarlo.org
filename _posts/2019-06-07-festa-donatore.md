@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Festa del donatore 2019"
-tags: [news]
+title: "🎈 Festa del donatore 2019"
+tags: [associazione]
 header:
   image: "/assets/images/2019/festa-donatore-montecarlo.jpg"
 ---
