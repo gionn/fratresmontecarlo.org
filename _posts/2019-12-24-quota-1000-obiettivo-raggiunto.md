@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🩸 Raggiunta Quota Mille!"
+title: "🔴 Raggiunta Quota Mille!"
 tags: [associazione]
 header:
   image: "/assets/images/2019/quota-mille-altopascio.jpg"

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🩸 Montecarlo ricorda Renzo Fantozzi"
+title: "🔴 Montecarlo ricorda Renzo Fantozzi"
 tags: [news]
 header:
   image: "assets/images/head/renzo.jpg"

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🩸 Verso Quota Mille: la sfida di Altopascio e Montecarlo"
+title: "🔴 Verso Quota Mille: la sfida di Altopascio e Montecarlo"
 tags: [associazione,quotamille]
 header:
   image: "/assets/images/2019/quota-mille-2.jpg"

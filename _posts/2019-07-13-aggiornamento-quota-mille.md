@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🩸 Quota Mille a metà percorso per Altopascio e Montecarlo"
+title: "🔴 Quota Mille a metà percorso per Altopascio e Montecarlo"
 tags: [associazione,quotamille]
 header:
   image: "/assets/images/2019/festa-donatore-montecarlo-palloncini.jpg"

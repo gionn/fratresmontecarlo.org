@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🩸 Donatori montecarlesi rinnovano l’impegno sul territorio"
+title: "🔴 Donatori montecarlesi rinnovano l’impegno sul territorio"
 tags: [associazione,agbalt]
 header:
   image: "assets/images/gallery/natale-2018.jpg"
