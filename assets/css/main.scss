@@ -11,3 +11,12 @@
   width: 3em;
   height: 3em;
 }
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  background-color: salmon;
+}
