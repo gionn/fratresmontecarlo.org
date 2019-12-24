@@ -12,11 +12,11 @@
   height: 3em;
 }
 
-a {
+article a {
   text-decoration: none;
   font-weight: bold;
 }
 
-a:hover {
+.page__content a:hover {
   background-color: salmon;
 }
