@@ -6,15 +6,15 @@ header:
   image: "/assets/images/2020/corriconpaolox.jpg"
 ---
 
-Ogni anno, dal 2010, viene organizzata sul territorio di Montecarlo una corsa
-podistica non competitiva che prende il nome di **“Corri con Paolo”**, con lo
-scopo di raccogliere fondi per l’AGBALT (Associazione Genitori Bambini Affetti
-da Leucemia o Tumore).
+Ogni anno, dall'aprile 2011, viene organizzata sul territorio di Montecarlo una
+corsa podistica non competitiva che prende il nome di **“Corri con Paolo”**, con
+lo scopo di raccogliere fondi per l’AGBALT (Associazione Genitori Bambini
+Affetti da Leucemia o Tumore).
 
 In questo **sabato 4 Aprile 2020**, grazie alle splendide condizioni meteo,
-tutta la comunità si sarebbe radunata nel centro storico di Montecarlo, vestito
-a festa per l’occasione, confermando il successo nella partecipazione come
-accade di anno in anno.
+tutta la comunità si sarebbe radunata nel centro storico di Montecarlo vestito a
+festa per l’occasione, confermando il successo di partecipazione come accade di
+anno in anno.
 
 Purtroppo, a causa dell’attuale **emergenza sanitaria** per il COVID-19, la
 manifestazione è tutt’ora rimandata e non sappiamo quando sarà possibile
