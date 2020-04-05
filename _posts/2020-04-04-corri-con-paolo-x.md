@@ -28,9 +28,13 @@ Il **Gruppo Donatori Fratres di Montecarlo** ha scelto di sostenere questa
 iniziativa offrendosi di raddoppiare l'importo che sarà raggiunto alla chiusura
 delle donazioni.
 
+## Come donare
+
+Puoi effettuare una donazione con carta di credito VISA o MASTERCARD attraverso il portale gofundme:
+
 [💳 FAI UNA DONAZIONE](https://www.gofundme.com/f/corri-con-paolo-x-per-agbalt)
 
-Chi preferisce fare un bonifico bancario può farlo a:
+Chi preferisce fare un **bonifico bancario**, può farlo a:
 
 > **IBAN**: IT30U0503470190000000113605<br/>
 > **Intestatario**: Gruppo Donatori Sangue Fratres Montecarlo<br/>
