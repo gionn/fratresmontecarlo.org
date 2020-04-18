@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🏃 Corri con Paolo X, per AGBALT"
+title: "🏃 Corri con Paolo X per AGBALT (obiettivo raggiunto! 🏆)"
 tags: [associazione]
 header:
   image: "/assets/images/2020/corriconpaolox.jpg"
@@ -32,11 +32,18 @@ delle donazioni.
 
 Puoi effettuare una donazione con carta di credito VISA o MASTERCARD attraverso il portale gofundme:
 
-[💳 FAI UNA DONAZIONE](https://www.gofundme.com/f/corri-con-paolo-x-per-agbalt)
+[💳 Raccolta su GoFundMe conclusa](https://www.gofundme.com/f/corri-con-paolo-x-per-agbalt)
 
-Chi preferisce fare un **bonifico bancario**, può farlo a:
+Chi vuole contribuire, può ancora farlo con un **bonifico bancario**:
 
 > **IBAN**: IT30U0503470190000000113605<br/>
 > **Intestatario**: Gruppo Donatori Sangue Fratres Montecarlo<br/>
 > **Causale**: Corri con Paolo X<br/>
 > **BIC/SWIFT**: BAPPIT21S42
+
+**Aggiornamento del 18 Aprile**: stiamo ancora aspettando che arrivino gli
+ultimi bonifici, ma possiamo anticiparvi che grazie alla vostra generosità, sono
+stati raccolti **3000 euro**, e che quindi il nostro gruppo, come promesso,
+raddoppierà l'importo arrivando a **6000 euro** a favore dell'AGBALT.
+
+Grazie di cuore ❤️❤️❤️
