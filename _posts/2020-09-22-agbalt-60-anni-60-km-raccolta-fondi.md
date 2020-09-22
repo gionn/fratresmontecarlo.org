@@ -16,7 +16,9 @@ le loro famiglie **non sono di certo diminuiti** a causa del COVID-19.
 
 Per questo motivo, supportiamo una nuova iniziativa promossa dal nostro socio
 **dott. Umberto Troilo**, che in occasione dei suoi 60 anni ha deciso di
-festeggiare così il suo compleanno.
+festeggiare così il suo compleanno: lanciando una nuova raccolta fondi con
+obiettivo 3000 euro, che si impegnerà a **raddoppiare** fino al raggiungimento
+dell'obiettivo.
 
 Invitiamo tutti i donatori a dare un proprio contributo, ognuno nei limiti delle
 sue possibilità.
