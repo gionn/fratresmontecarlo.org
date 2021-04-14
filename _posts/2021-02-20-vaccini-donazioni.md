@@ -4,14 +4,11 @@ title: "💉 Posso donare se mi sono sottoposto di recente al vaccino contro COV
 tags: [faq]
 ---
 
-Dipende dal vaccino che ti è stato somministrato e quanto tempo passa
-dall'ultima somministrazione. Vediamo come:
+Dipende da quanto tempo è passato dalla somministrazione del vaccino e se hai
+avuto sintomi come febbre. Vediamo come:
 
-Se sei stato sottoposto a vaccino con virus attenuato (es: AstraZeneca), puoi
-riprendere le donazioni dopo 4 settimane.
+Se sei stato sottoposto a vaccino e non hai sviluppato alcun sintomo, puoi
+riprendere le donazioni dopo 48 ore.
 
-Se sei stato sottoposto a vaccino con virus inattivi o a base di mRNA (es:
-Pfizer-Biontech, Moderna), puoi riprendere le donazioni dopo 48 ore.
-
-In generale, se hai sintomi devi attendere 7 giorni dalla loro assenza prima di
-riprendere le donazioni.
+Se hai sviluppato sintomi, devi attendere 7 giorni dalla loro assenza prima di
+tornare a donare.
