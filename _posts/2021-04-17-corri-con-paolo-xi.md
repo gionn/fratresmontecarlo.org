@@ -1,39 +1,42 @@
 ---
 layout: single
-title: "🏃 Corri con Paolo XI, per AGBALT"
+title: "🏃 Corri con Paolo 2021, per AGBALT"
 tags: [associazione]
 header:
-  image: "/assets/images/2020/corriconpaolox.jpg"
+  image: "/assets/images/2021/corri-con-paolo-oriz.jpg"
 ---
 
-Ogni anno, dall'aprile 2011, viene organizzata sul territorio di Montecarlo una
-corsa podistica non competitiva che prende il nome di **“Corri con Paolo”**, con
-lo scopo di raccogliere fondi per l’AGBALT (Associazione Genitori Bambini
-Affetti da Leucemia o Tumore).
+L'anno scorso, a causa dell'Emergenza Sanitaria da Covid-19, non è stato
+possibile organizzare la decima edizione della "**Corri con Paolo**" con la
+solita gioiosa grande partecipazione diretta.
 
-Purtroppo a causa dell'attuale **emergenza sanitaria** per il COVID-19, già nel
-2020 è stato necessario rimandare la manifestazione. Ma grazie alla generosità e
-all'entusiasmo di tutti i partecipanti, siamo riusciti a sostenere una [raccolta
-fondi online](/2020/04/04/corri-con-paolo-x.html) che ha raggiunto l'obiettivo
-fissato.
+L'evento si è svolto lo stesso virtualmente e grazie a tutti voi abbiamo
+comunque raccolto abbastanza fondi per continuare ad aiutare l'**AGBALT** nelle
+sue importantissime attività in favore dei bambini colpiti da Leucemie o Tumori
+e delle loro famiglie.
 
-Anche quest'anno non vogliamo rinunciare al nostro appuntamento con la
-solidarietà, per cui abbiamo deciso di **attivare una nuova raccolta fondi** per
-sostenere l’AGBALT.
+Visto l'entusiasmo ed il successo dell'anno scorso, ed ovviamente il perdurare
+della pandemia, anche quest'anno, insieme a tutti gli amici organizzatori della
+manifestazione, abbiamo pensato di attivare una **raccolta fondi** per sostenere
+l'AGBALT. Vi invitiamo quindi a donare, immaginando di poter davvero partecipare
+all’undicesima edizione della "Corri Con Paolo".
 
-Il **Gruppo Donatori Fratres di Montecarlo** ha scelto di sostenere questa
-iniziativa anche quest'anno, offrendosi di raddoppiare l'importo che sarà
-raggiunto alla chiusura delle donazioni.
+Come Gruppo Donatori di Sangue Fratres Alberto Tintori di Montecarlo abbiamo
+deciso di sostenere ulteriormente l’iniziativa **raddoppiando le donazioni** che
+saranno raccolte, fino all'**obiettivo stabilito di 3000 euro**.
 
 ## Come donare
 
-Puoi effettuare una donazione con carta di credito VISA o MASTERCARD attraverso il portale gofundme:
+Puoi effettuare una donazione con carta di credito VISA o MASTERCARD attraverso
+il portale GoFundMe:
 
-[💳 Dona con GoFundMe]()
+[💳 Dona con GoFundMe](https://www.gofundme.com/f/corri-con-paolo-2021-per-agbalt)
 
 Chi vuole contribuire, può anche farlo con un **bonifico bancario**:
 
 > **IBAN**: IT30U0503470190000000113605<br/>
 > **Intestatario**: Gruppo Donatori Sangue Fratres Montecarlo<br/>
-> **Causale**: Corri con Paolo XI<br/>
+> **Causale**: Corri con Paolo 2021<br/>
 > **BIC/SWIFT**: BAPPIT21S42
+
+![corri con paolo](/assets/images/2021/corri-con-paolo-vert.jpg)
