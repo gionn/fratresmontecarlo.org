@@ -115,5 +115,6 @@ che si sono succeduti hanno promosso le seguenti attività:
 * 2018: 348 donazioni
 * 2019: 457 donazioni
 * 2020: 487 donazioni
+* 2021: 412 donazioni
 
 Ti interessano altre dati? Accedi alla sezione [Statistiche](https://fratresmontecarlo.org/charts/)!
