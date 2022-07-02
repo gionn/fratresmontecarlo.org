@@ -14,7 +14,7 @@ con proposte che spaziano dal rock moderno ai classici della musica italiana int
 del ”Trio novello”, composto da Mauro Novelli, Matteo Quiriconi e Davide Gemignani, il tutto accompagnato da un buffet di **pizza e bevande** 🍕 al costo di 15€.
 Si ricorda e si raccomanda inoltre, considerando la sempre presente situazione Covid
 e le necessità organizzative dei ristoratori, che è **obbligatoria la prenotazione** 
-(per info e prenotazioni chiamare il numero ☎️ **348 949 1955**).
+(per info e prenotazioni chiamare il numero  ☎️ **348 949 1955**).
 La serata sarà un'occasione perfetta per conoscerci tra di noi, stringere nuovi legami e, perché no, 
 presentarci a coloro che di donare il sangue hanno solo sentito parlare, ma hanno intenzione di addentrarsi 
 o semplicemente saperne di più riguardo questo bel mondo.
