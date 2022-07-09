@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "🥳 Hai la musica nel sangue? Questa è la tua serata"
-tags: [associazione]
+tags: [eventi]
 header:
   image: /assets/images/2022/donatori_in_terrazza.jpg
 ---

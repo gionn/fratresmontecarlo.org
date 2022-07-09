@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "🏃 Corri con Paolo 2022, per AGBALT"
-tags: [associazione]
+tags: [eventi]
 header:
   image: /assets/images/2022/corri-con-paolo-2022.jpg
 ---

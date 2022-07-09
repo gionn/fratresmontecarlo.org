@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "🏃 60 anni, 60 km a piedi per A.G.B.A.L.T."
-tags: [associazione]
+tags: [eventi]
 header:
   image: https://d2g8igdw686xgo.cloudfront.net/51185468_1600010874733859_r.jpeg
 ---

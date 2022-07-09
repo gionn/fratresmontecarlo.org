@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "🏃 Corri con Paolo 2021, per AGBALT"
-tags: [associazione]
+tags: [eventi]
 header:
   image: "/assets/images/2021/corri-con-paolo-oriz.jpg"
 ---
