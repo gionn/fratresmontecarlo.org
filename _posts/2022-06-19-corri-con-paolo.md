@@ -27,7 +27,7 @@ donazione con carta di credito attraverso il portale GoFundMe:
 
 Oppure anche tramite **bonifico bancario**:
 
-> **IBAN**: IT30U0503470190000000113605
+> **IBAN**: IT07H0503470230000000113605
 > **Intestatario**: Gruppo Donatori Sangue Fratres Montecarlo
 > **Causale**: Corri con Paolo 2022
 > **BIC/SWIFT**: BAPPIT21S42
