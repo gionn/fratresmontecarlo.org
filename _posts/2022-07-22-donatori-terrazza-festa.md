@@ -25,4 +25,4 @@ La serata aveva anche l’obiettivo di rinnovare il messaggio
 dell’**importanza della donazione**, sempre in ogni periodo
 dell’anno, **ma ancora più in estate**, dove c’è più carenza.
 Ringraziamo di cuore 💖 tutti per la partecipazione, vi aspettiamo ai
-prossimi eventi e, perché no, per una donazione
+prossimi eventi e, perché no, per una donazione.
