@@ -6,8 +6,8 @@ header:
   image: /assets/images/2022/donatori_in_terrazza_festa.jpg
 ---
 
-Poche sere fa si è conclusa la 1° edizione di ⭐**“Donatori sotto le
-Stelle”**⭐, serata promossa dal **Gruppo Donatori Fratres Montecarlo**,
+Poche sere fa si è conclusa la 1° edizione di ⭐“Donatori sotto le
+Stelle”⭐, serata promossa dal **Gruppo Donatori Fratres Montecarlo**,
 guidati dalla voglia di ripartire e di farsi conoscere.
 E direi che ci sono riusciti alla grande, considerando il gran numero
 di persone accorse all’evento, circa un centinaio tra donatori e
