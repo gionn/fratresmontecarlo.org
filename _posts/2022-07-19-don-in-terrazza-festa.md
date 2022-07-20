@@ -3,7 +3,7 @@ layout: single
 title: "1° EDIZIONE DONATORI IN TERRAZZA SOTTO LE STELLE"
 tags: [eventi]
 header:
-  image: /assets/images/2022/donatori_in_terrazza_festa.jpg
+  image: /assets/images/2022/donatori_in_terrazza_3foto.jpg
 ---
 
 Poche sere fa si è conclusa la 1° edizione di ⭐“Donatori sotto le
