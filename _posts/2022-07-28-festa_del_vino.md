@@ -12,7 +12,7 @@ esima splendida edizione. Non uno, ma ben tre saranno i cuori pulsanti dell’ev
 buon vino, la **Degustazione sotto le Stelle** in Piazza Garibaldi, e il **Salotto del Vino e del
 Verde** all’Istituto Pellegrini-Carmignani, dove ogni sera cuochi del territorio abbineranno
 le loro pietanze a vini di Montecarlo.
-Tutti assieme nella alla speranza di poter tornare ad una normalità che sempre più ci
+Tutti assieme nella speranza di poter tornare ad una normalità che sempre più ci
 appartiene.
 Anche i donatori del gruppo **Fratres Montecarlo** 🩸 sono in prima linea e vi aspettano negli
 stand del vino presso la Piazza d’Armi perché si sa: buon vino fa buon sangue, e noi di
